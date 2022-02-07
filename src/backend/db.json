@@ -1,0 +1,149 @@
+{
+  "Register": [
+    {
+      "Name": "yuedgyusa",
+      "Email": "sakdjhjsd@ghshed.com",
+      "Password": "skhuu550000000005",
+      "id": 1
+    },
+    {
+      "Name": "admin1",
+      "Email": "admin@123.com",
+      "Password": "1234321",
+      "id": 2
+    },
+    {
+      "Name": "admin2",
+      "Email": "admin@1234.com",
+      "Password": "12345",
+      "id": 3
+    },
+    {
+      "Name": "admin3",
+      "Email": "admin@12345.com",
+      "Password": "123454321",
+      "id": 4
+    },
+    {
+      "Name": "admin4",
+      "Email": "admin@123456.com",
+      "Password": "admin4",
+      "id": 5
+    },
+    {
+      "Name": "Webiwork",
+      "Email": "xyz@webiwork.com",
+      "Password": "1234321",
+      "id": 6
+    },
+    {
+      "Name": "Yash",
+      "Email": "yash@123.com",
+      "Password": "yash",
+      "id": 7
+    },
+    {
+      "Name": "infobeans",
+      "Email": "infobeans@123.com",
+      "Password": "info",
+      "id": 8
+    },
+    {
+      "Name": "Narine",
+      "Email": "Sunil@narine.com",
+      "Password": "narine",
+      "id": 9
+    },
+    {
+      "Name": "sasasa",
+      "Email": "sasasa@gmail.com",
+      "Password": "sasasa",
+      "id": 10
+    },
+    {
+      "Name": "Aron",
+      "Email": "aron@123.com",
+      "Password": "aron",
+      "id": 11
+    }
+  ],
+  "login": [
+    {
+      "Email": "webiwork@1233.com",
+      "Password": "webiwork",
+      "id": 1
+    },
+    {
+      "Email": "Yash@tech.com",
+      "Password": "Yashtech",
+      "id": 2
+    },
+    {
+      "Email": "sakdjhjsd@ghshed.com",
+      "Password": "skhuuiasd",
+      "id": 3
+    },
+    {
+      "Email": "Sunil@narine.com",
+      "Password": "narine",
+      "id": 4
+    },
+    {
+      "Email": "sasasa@gmail.com",
+      "Password": "sasasa",
+      "id": 5
+    },
+    {
+      "Email": "aron@123.com",
+      "Password": "aron",
+      "id": 6
+    }
+  ],
+  "Forgotpe": [
+    {
+      "Email": "shailendra@123.com",
+      "id": 1
+    },
+    {
+      "Email": "admin2@gmail.com",
+      "id": 2
+    }
+  ],
+  "Employee": [
+    {
+      "name": "sam",
+      "mobile": "9009900099",
+      "email": "sam@j.com",
+      "salary": "23456",
+      "id": 1
+    },
+    {
+      "name": "dhani",
+      "mobile": "9876543121",
+      "email": "dhani@support.com",
+      "salary": "34567",
+      "id": 2
+    },
+    {
+      "name": "wasim farooq",
+      "mobile": "8989787878",
+      "email": "wasim@123.com",
+      "salary": "89000",
+      "id": 3
+    },
+    {
+      "name": "Angelo",
+      "mobile": "9091232848",
+      "email": "angelo@123.com",
+      "salary": "35500",
+      "id": 4
+    },
+    {
+      "name": "Russel",
+      "mobile": "9876543210",
+      "email": "and@russ.com",
+      "salary": "190000",
+      "id": 5
+    }
+  ]
+}

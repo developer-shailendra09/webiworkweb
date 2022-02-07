@@ -1,0 +1,18 @@
+.red{
+    color:red;
+    text-decoration:none;
+}
+
+#link{
+    color:rgb(228, 61, 20);
+    text-decoration:none;
+}
+
+h1{
+    text-align:center;
+    color:gray;
+}
+
+.center{
+    margin:auto;
+}
